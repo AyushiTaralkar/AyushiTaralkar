@@ -10,7 +10,7 @@
 <a href="https://github.com/AyushiTaralkar?tab=followers"> <img src="https://img.shields.io/github/followers/AyushiTaralkar?label=Followers&style=social" /> </a>
 
 <a href="https://github.com/AyushiTaralkar"> <img src="https://img.shields.io/github/stars/AyushiTaralkar?affiliations=OWNER&style=social" /> </a> </p>
-<!--
+
 👩‍💻 About Me
 
 🎓 Third-Year Computer Science Engineering student at Vellore institute of technology specializing in Health Informatics.
