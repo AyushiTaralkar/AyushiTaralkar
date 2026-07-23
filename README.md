@@ -3,7 +3,8 @@
 <h3 align="center">
 AI/ML Enthusiast • Software Developer • Building Intelligent Solutions
 </h3>
-
+<p align="center">
+<img src="https://img.shields.io/badge/Public%20Repos-24-blue?style=flat-square" />
 
 <p align="center">
 <a href="https://github.com/AyushiTaralkar">
