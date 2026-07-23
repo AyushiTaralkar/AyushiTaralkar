@@ -75,31 +75,55 @@ Python • PyTorch • TensorFlow • Scikit-Learn • Hugging Face • LangChai
 
 ---
 
-# 🚀 Featured Projects
 
-💰 **ArthaSage AI**
+## 🚀 Featured Projects
 
-AI-powered personal finance assistant using RAG, LangChain, FAISS and FastAPI.
+### 💰 ArthaSage AI
 
----
+An AI-powered personal finance assistant that leverages Retrieval-Augmented Generation (RAG) to analyze financial data, answer personalized queries, and deliver actionable financial insights through a conversational interface.
 
-🧠 **Machine Learning Diabetes Prediction**
-
-Predictive healthcare model integrating medical and psychological parameters.
+**Tech:** Flutter • FastAPI • LangChain • FAISS • PostgreSQL
 
 ---
 
-🔬 **Skin Cancer Detection**
+### 🧠 Machine Learning-Based Diabetes Prediction
 
-CNN-based deep learning model for early skin cancer detection.
+Developed a predictive healthcare model that combines medical and psychological indicators to improve diabetes risk assessment, enabling more accurate and data-driven health insights.
+
+**Tech:** Python • Scikit-Learn • Pandas • NumPy
+
+---
+
+### 🔬 Skin Cancer Detection using CNN
+
+Built a Convolutional Neural Network (CNN) to classify dermoscopic skin images, supporting early skin cancer detection and assisting in faster clinical decision-making.
+
+**Tech:** TensorFlow • OpenCV • CNN
 
 ---
 
-🤟 **Sign Language Recognition**
+### 👶 Embryo Quality Classification
 
-Computer Vision project for improving accessibility through gesture recognition.
+Designed a CNN-based deep learning model to classify embryo images based on developmental quality, demonstrating the application of AI in assisted reproductive technology and medical imaging.
+
+**Tech:** Python • TensorFlow • CNN • OpenCV
 
 ---
+
+### 😊 Real-Time Mood Detection
+
+Developed a real-time facial emotion recognition system that analyzes webcam input to identify human emotions such as happy, sad, angry, and surprised using computer vision and deep learning.
+
+**Tech:** Python • OpenCV • TensorFlow
+
+---
+
+### 🤟 Sign Language Recognition
+
+Designed a computer vision application that recognizes sign language gestures in real time, helping bridge communication gaps and improve accessibility for the hearing-impaired community.
+
+**Tech:** Python • OpenCV • Deep Learning
+
 
 # 📊 GitHub Stats
 
