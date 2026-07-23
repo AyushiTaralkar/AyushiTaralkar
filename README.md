@@ -1,5 +1,15 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ayushi Taralkar</h1>
 
+<h3 align="center"> AI/ML Enthusiast • Software Developer • Building Intelligent Solutions </h3>
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Software+Developer;Building+AI+Products;Always+Learning+🚀" /> </p>
+
+<p align="center"> <a href="https://github.com/AyushiTaralkar"> <img src="https://komarev.com/ghpvc/?username=AyushiTaralkar&label=Profile%20Views&color=blue&style=flat" /> </a>
+
+<a href="https://github.com/AyushiTaralkar?tab=followers"> <img src="https://img.shields.io/github/followers/AyushiTaralkar?label=Followers&style=social" /> </a>
+
+<a href="https://github.com/AyushiTaralkar"> <img src="https://img.shields.io/github/stars/AyushiTaralkar?affiliations=OWNER&style=social" /> </a> </p>
 <!--
 **AyushiTaralkar/AyushiTaralkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
