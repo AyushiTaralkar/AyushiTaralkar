@@ -53,7 +53,7 @@ I'm passionate about building AI-powered applications that solve real-world prob
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,sql"/>
 </p>
 
 ### AI / ML
@@ -63,19 +63,14 @@ Python • PyTorch • TensorFlow • Scikit-Learn • Hugging Face • LangChai
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flutter,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,fastapi,flutter"/>
 </p>
 
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase"/>
-</p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
 </p>
 
 ---
