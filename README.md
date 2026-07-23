@@ -80,49 +80,49 @@ Python • PyTorch • TensorFlow • Scikit-Learn • Hugging Face • LangChai
 
 ### 💰 ArthaSage AI
 
-An AI-powered personal finance assistant that leverages Retrieval-Augmented Generation (RAG) to analyze financial data, answer personalized queries, and deliver actionable financial insights through a conversational interface.
+An AI-powered personal finance assistant that leverages Retrieval-Augmented Generation (RAG) to analyze transaction data, answer personalized financial queries, and deliver intelligent insights through a conversational interface.
 
 **Tech:** Flutter • FastAPI • LangChain • FAISS • PostgreSQL
 
 ---
 
-### 🧠 Machine Learning-Based Diabetes Prediction
+### 🥗 NutriMitra AI
 
-Developed a predictive healthcare model that combines medical and psychological indicators to improve diabetes risk assessment, enabling more accurate and data-driven health insights.
+A full-stack AI-powered nutrition platform that delivers personalized diet recommendations, condition-aware food impact scoring, and gamified wellness tracking to promote healthier eating habits.
 
-**Tech:** Python • Scikit-Learn • Pandas • NumPy
-
----
-
-### 🔬 Skin Cancer Detection using CNN
-
-Built a Convolutional Neural Network (CNN) to classify dermoscopic skin images, supporting early skin cancer detection and assisting in faster clinical decision-making.
-
-**Tech:** TensorFlow • OpenCV • CNN
+**Tech:** Next.js • React • FastAPI • Python • Tailwind CSS
 
 ---
 
-### 👶 Embryo Quality Classification
+### 👶 Genetic Disorder Detection in IVF Embryos
 
-Designed a CNN-based deep learning model to classify embryo images based on developmental quality, demonstrating the application of AI in assisted reproductive technology and medical imaging.
+Developed a CNN-based deep learning model to classify IVF embryo images for genetic disorder detection, showcasing the potential of AI in assisted reproductive healthcare and medical imaging.
 
 **Tech:** Python • TensorFlow • CNN • OpenCV
 
 ---
 
-### 😊 Real-Time Mood Detection
+### 🧠 Diabetes Risk Prediction
 
-Developed a real-time facial emotion recognition system that analyzes webcam input to identify human emotions such as happy, sad, angry, and surprised using computer vision and deep learning.
+Built a machine learning model that integrates clinical data with psychological indicators to provide a more holistic approach to diabetes risk assessment and early healthcare intervention.
 
-**Tech:** Python • OpenCV • TensorFlow
+**Tech:** Python • Scikit-Learn • Pandas • NumPy
 
 ---
 
-### 🤟 Sign Language Recognition
+### 🤟 SignTales – Text-to-Sign Language Translation
 
-Designed a computer vision application that recognizes sign language gestures in real time, helping bridge communication gaps and improve accessibility for the hearing-impaired community.
+Created an accessibility-focused application that converts text into sign language by mapping words to the WLASL dataset, helping bridge communication gaps for the Deaf and hard-of-hearing community.
 
-**Tech:** Python • OpenCV • Deep Learning
+**Tech:** Python • OpenCV • NLP • Computer Vision
+
+---
+
+### 😊 Real-Time Mood Detector
+
+Designed a real-time facial emotion recognition system that detects emotions from webcam input using computer vision, enabling intelligent and interactive human-computer applications.
+
+**Tech:** Python • OpenCV • DeepFace
 
 
 # 📊 GitHub Stats
