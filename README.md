@@ -11,7 +11,17 @@
 
 <a href="https://github.com/AyushiTaralkar"> <img src="https://img.shields.io/github/stars/AyushiTaralkar?affiliations=OWNER&style=social" /> </a> </p>
 <!--
-**AyushiTaralkar/AyushiTaralkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me
+
+🎓 Third-Year Computer Science Engineering student at Vellore institute of technology specializing in Health Informatics.
+
+I'm passionate about building AI-powered applications that solve real-world problems across healthcare, finance, and accessibility.
+
+🤖 AI • Machine Learning • NLP • Computer Vision
+💻 Full Stack Development
+📚 Currently exploring LLMs, RAG Systems, AI Agents & MLOps
+🌱 Always learning something new
+💼 Open to AI/ML and Software Engineering Internship opportunities**AyushiTaralkar/AyushiTaralkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
