@@ -4,9 +4,6 @@
 AI/ML Enthusiast • Software Developer • Building Intelligent Solutions
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Software+Developer;Building+AI+Products;Always+Learning+🚀" />
-</p>
 
 <p align="center">
 <a href="https://github.com/AyushiTaralkar">
