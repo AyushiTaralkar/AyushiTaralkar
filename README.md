@@ -1,176 +1,185 @@
 <h1 align="center">Hi 👋, I'm Ayushi Taralkar</h1>
 
 <h3 align="center">
-AI/ML Enthusiast • Software Developer • Building Intelligent Solutions
+AI/ML Engineer • Software Developer • Building AI-Powered Products
 </h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Public%20Repos-24-blue?style=flat-square" />
 
 <p align="center">
-<a href="https://github.com/AyushiTaralkar">
-<img src="https://komarev.com/ghpvc/?username=AyushiTaralkar&label=Profile%20Views&color=blue&style=flat" />
-</a>
-
-<a href="https://github.com/AyushiTaralkar?tab=followers">
-<img src="https://img.shields.io/github/followers/AyushiTaralkar?label=Followers&style=social" />
-</a>
-
-<a href="https://github.com/AyushiTaralkar">
-<img src="https://img.shields.io/github/stars/AyushiTaralkar?affiliations=OWNER&style=social" />
-</a>
+  <a href="https://github.com/AyushiTaralkar">
+    <img src="https://komarev.com/ghpvc/?username=AyushiTaralkar&label=Profile%20Views&color=blue&style=flat" />
+  </a>
+  <a href="https://github.com/AyushiTaralkar?tab=followers">
+    <img src="https://img.shields.io/github/followers/AyushiTaralkar?label=Followers&style=social" />
+  </a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 Third-Year Computer Science Engineering student at **VIT Bhopal** specializing in **Health Informatics**.
+🎓 **Fourth-Year Computer Science Engineering student at VIT Bhopal**, specializing in **Health Informatics**.
 
-I'm passionate about building AI-powered applications that solve real-world problems across healthcare, finance, and accessibility.
+I enjoy building AI-powered products and software systems that solve real-world problems. My recent work spans **AI agents, RAG systems, healthcare applications, data-driven products, and full-stack development**.
 
-* 🤖 AI • Machine Learning • NLP • Computer Vision
-* 💻 Full Stack Development
-* 📚 Currently exploring LLMs, RAG Systems, AI Agents & MLOps
-* 🌱 Always learning something new
-* 💼 Open to AI/ML and Software Engineering Internship opportunities
-
----
-
-# 🏆 Achievements
-
-🏅 Amazon ML Summer School 2025
-
-🥈 Ranked 7th Nationally — Global Digital Health Summit Hackathon
-
-💼 Data Science Intern — VOIS (Vodafone Idea Foundation)
+* 🤖 AI/ML • LLMs • AI Agents • RAG • NLP • Computer Vision
+* 💻 Full-Stack Development • Backend Engineering • APIs
+* 🧠 Building production-oriented AI systems and intelligent applications
+* 🔬 Interested in AI, software engineering, healthcare technology & data
+* 💼 Open to **AI/ML and Software Engineering internship opportunities**
 
 ---
 
-# 💻 Tech Stack
+## 🏆 Achievements
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,sql"/>
-</p>
-
-### AI / ML
-
-Python • PyTorch • TensorFlow • Scikit-Learn • Hugging Face • LangChain • FAISS • NLP • Computer Vision
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,fastapi,flutter"/>
-</p>
-
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
-</p>
+* 🏅 **Amazon ML Summer School 2025** — Selected among the **top 5% nationally**
+* 🏆 **Ranked 7th Nationally** — Global Digital Health Summit Hackathon 2025
+* 💼 **Data Science Intern** — VOIS (Vodafone Idea Foundation)
 
 ---
-
 
 ## 🚀 Featured Projects
 
-### 💰 ArthaSage AI
+### 🛡️ AgentVault — Trust & Observability Layer for AI Agents
 
-An AI-powered personal finance assistant that leverages Retrieval-Augmented Generation (RAG) to analyze transaction data, answer personalized financial queries, and deliver intelligent insights through a conversational interface.
+A trust and observability platform for autonomous AI agents that evaluates, governs, and records agent actions before execution.
 
-**Tech:** Flutter • FastAPI • LangChain • FAISS • PostgreSQL
+**Highlights**
+
+* Agent action evaluation and policy enforcement
+* Action gateway for controlled tool execution
+* Audit logs for agent decisions
+* Simulation environment for testing agent behavior
+* FastAPI backend with persistent data storage
+
+**Tech:** Python • FastAPI • PostgreSQL • AI Agents • REST APIs
+
+---
+
+### 🏥 Healthcare Appointment & Follow-up Manager
+
+A full-stack clinic management platform connecting patients, doctors, and administrators while using AI to streamline pre-visit and post-visit workflows.
+
+**Highlights**
+
+* Role-based patient, doctor & admin portals
+* Doctor availability and appointment scheduling
+* Double-booking prevention
+* AI-generated pre-visit symptom summaries
+* Appointment and follow-up notifications
+* Calendar integration
+
+**Tech:** Next.js • React • FastAPI • PostgreSQL • Python • LLMs
+
+---
+
+### 🔎 Composio App Research Agent
+
+An autonomous research agent designed to evaluate and analyze **100+ SaaS applications** using tool-based AI workflows.
+
+**Highlights**
+
+* Automated SaaS application research
+* Structured information extraction
+* Tool-based agent workflows
+* Multi-step research and synthesis
+* Designed with fallback LLM strategies for reliability
+
+**Tech:** Python • Composio SDK • Google Gemini • AI Agents
+
+---
+
+### 💰 ArthaSage AI — Personal Finance Copilot
+
+An AI-powered personal finance assistant that combines transaction analytics with Retrieval-Augmented Generation to answer personalized financial questions.
+
+**Highlights**
+
+* CSV transaction ingestion and analysis
+* RAG-based financial Q&A
+* Semantic search over financial data
+* Interactive analytics and visualizations
+
+**Tech:** Python • Streamlit • LangChain • FAISS • Google Gemini • Pandas • Plotly
 
 ---
 
 ### 🥗 NutriMitra AI
 
-A full-stack AI-powered nutrition platform that delivers personalized diet recommendations, condition-aware food impact scoring, and gamified wellness tracking to promote healthier eating habits.
+A full-stack AI-powered nutrition platform providing personalized dietary recommendations, condition-aware food impact scoring, and gamified wellness tracking.
 
 **Tech:** Next.js • React • FastAPI • Python • Tailwind CSS
 
 ---
 
-### 👶 Genetic Disorder Detection in IVF Embryos
+### 🤟 SignTales — Text-to-Sign Language
 
-Developed a CNN-based deep learning model to classify IVF embryo images for genetic disorder detection, showcasing the potential of AI in assisted reproductive healthcare and medical imaging.
+An accessibility-focused application that converts text into sign-language representations using NLP and computer vision techniques.
 
-**Tech:** Python • TensorFlow • CNN • OpenCV
-
----
-
-### 🧠 Diabetes Risk Prediction
-
-Built a machine learning model that integrates clinical data with psychological indicators to provide a more holistic approach to diabetes risk assessment and early healthcare intervention.
-
-**Tech:** Python • Scikit-Learn • Pandas • NumPy
+**Tech:** Python • OpenCV • NLP • Computer Vision • WLASL
 
 ---
 
-### 🤟 SignTales – Text-to-Sign Language Translation
+## 💻 Tech Stack
 
-Created an accessibility-focused application that converts text into sign language by mapping words to the WLASL dataset, helping bridge communication gaps for the Deaf and hard-of-hearing community.
+### Languages
 
-**Tech:** Python • OpenCV • NLP • Computer Vision
-
----
-
-### 😊 Real-Time Mood Detector
-
-Designed a real-time facial emotion recognition system that detects emotions from webcam input using computer vision, enabling intelligent and interactive human-computer applications.
-
-**Tech:** Python • OpenCV • DeepFace
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushiTaralkar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiTaralkar&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,sql" />
 </p>
 
-<p align="center">
+### AI / Machine Learning
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiTaralkar&layout=compact&theme=tokyonight&hide_border=true"/>
+Python • PyTorch • TensorFlow • Scikit-Learn • Hugging Face • LangChain • FAISS • NLP • Computer Vision • RAG • LLMs • AI Agents
 
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgresql" />
+</p>
+
+REST APIs • PostgreSQL • Database Design • Authentication • RBAC
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushiTaralkar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiTaralkar&theme=tokyonight&hide_border=true" />
+</p>
 
-💼 LinkedIn
-
-https://www.linkedin.com/in/ayushi-taralkar-33416427a/
-
-🐙 GitHub
-
-https://github.com/AyushiTaralkar
-
-📧 Email
-
-[taralkarayushi06@gmail.com](mailto:taralkarayushi06@gmail.com)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiTaralkar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 💭 Quote
+## 🌐 Connect With Me
 
-> "The future belongs to those who build it."
+<p>
+💼 <a href="https://www.linkedin.com/in/ayushi-taralkar-33416427a/">LinkedIn</a>
+<br>
+🐙 <a href="https://github.com/AyushiTaralkar">GitHub</a>
+<br>
+📧 <a href="mailto:taralkarayushi06@gmail.com">Email</a>
+</p>
 
 ---
 
 <p align="center">
-
 ⭐ Thanks for visiting my profile!
-
-Let's connect and build something amazing together 🚀
-
+<br>
+Building, learning, and shipping AI-powered products 🚀
 </p>
