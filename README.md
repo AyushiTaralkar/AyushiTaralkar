@@ -21,7 +21,7 @@ Computer Science Engineer • AI/ML Builder • Software Developer
 
 ## 🧑‍💻 A Little About Me
 
-I'm a **4th-year Computer Science Engineering student at VIT Bhopal**, specializing in **Health Informatics**.
+I'm a **4th-year Computer Science Engineering student at VIT**, specializing in **Health Informatics**.
 
 I like working at the intersection of **AI, software engineering, and real-world problems** — from building RAG-powered applications and autonomous research agents to developing healthcare platforms and data-driven products.
 
