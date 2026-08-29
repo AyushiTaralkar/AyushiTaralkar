@@ -1,125 +1,130 @@
-<h1 align="center">Hi 👋, I'm Ayushi Taralkar</h1>
+<h1 align="center">Hey 👋, I'm Ayushi Taralkar</h1>
 
 <h3 align="center">
-AI/ML Engineer • Software Developer • Building AI-Powered Products
+Computer Science Engineer • AI/ML Builder • Software Developer
 </h3>
 
 <p align="center">
   <a href="https://github.com/AyushiTaralkar">
-    <img src="https://komarev.com/ghpvc/?username=AyushiTaralkar&label=Profile%20Views&color=blue&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=AyushiTaralkar&label=Profile%20Views&color=blue&style=flat-square" />
   </a>
   <a href="https://github.com/AyushiTaralkar?tab=followers">
-    <img src="https://img.shields.io/github/followers/AyushiTaralkar?label=Followers&style=social" />
+    <img src="https://img.shields.io/github/followers/AyushiTaralkar?label=Followers&style=flat-square" />
   </a>
+</p>
+
+<p align="center">
+  <i>Turning ideas into intelligent, usable software.</i>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🧑‍💻 A Little About Me
 
-🎓 **Fourth-Year Computer Science Engineering student at VIT Bhopal**, specializing in **Health Informatics**.
+I'm a **4th-year Computer Science Engineering student at VIT Bhopal**, specializing in **Health Informatics**.
 
-I enjoy building AI-powered products and software systems that solve real-world problems. My recent work spans **AI agents, RAG systems, healthcare applications, data-driven products, and full-stack development**.
+I like working at the intersection of **AI, software engineering, and real-world problems** — from building RAG-powered applications and autonomous research agents to developing healthcare platforms and data-driven products.
 
-* 🤖 AI/ML • LLMs • AI Agents • RAG • NLP • Computer Vision
-* 💻 Full-Stack Development • Backend Engineering • APIs
-* 🧠 Building production-oriented AI systems and intelligent applications
-* 🔬 Interested in AI, software engineering, healthcare technology & data
-* 💼 Open to **AI/ML and Software Engineering internship opportunities**
+Currently exploring:
+
+```text
+AI Agents        ███████████████████░░
+LLMs & RAG       ██████████████████░░░
+Backend Systems  █████████████████░░░░
+Machine Learning ████████████████░░░░░
+Product Building ██████████████████░░░
+```
+
+* 🤖 Building with **LLMs, RAG, AI Agents & ML**
+* ⚙️ Developing **full-stack applications & APIs**
+* 🧠 Interested in **intelligent systems and applied AI**
+* 🏥 Exploring technology at the intersection of **AI + healthcare**
+* 🔬 Selected for **Amazon ML Summer School 2025**
+* 🏆 **7th nationally** at the Global Digital Health Summit Hackathon
+* 💼 Open to **AI/ML & Software Engineering opportunities**
 
 ---
 
-## 🏆 Achievements
+# 🚀 Things I've Built
 
-* 🏅 **Amazon ML Summer School 2025** — Selected among the **top 5% nationally**
-* 🏆 **Ranked 7th Nationally** — Global Digital Health Summit Hackathon 2025
-* 💼 **Data Science Intern** — VOIS (Vodafone Idea Foundation)
+### 🔎 Composio App Research Agent
 
----
+**An autonomous research agent that evaluates 100+ SaaS applications.**
 
-## 🚀 Featured Projects
+Instead of manually researching applications one by one, the agent uses tool-based workflows to gather, structure, and synthesize information.
 
-### 🛡️ AgentVault — Trust & Observability Layer for AI Agents
-
-A trust and observability platform for autonomous AI agents that evaluates, governs, and records agent actions before execution.
-
-**Highlights**
-
-* Agent action evaluation and policy enforcement
-* Action gateway for controlled tool execution
-* Audit logs for agent decisions
-* Simulation environment for testing agent behavior
-* FastAPI backend with persistent data storage
-
-**Tech:** Python • FastAPI • PostgreSQL • AI Agents • REST APIs
+**Built with:**
+`Python` `Composio SDK` `Google Gemini` `AI Agents`
 
 ---
 
 ### 🏥 Healthcare Appointment & Follow-up Manager
 
-A full-stack clinic management platform connecting patients, doctors, and administrators while using AI to streamline pre-visit and post-visit workflows.
+**Making the patient journey smarter — before and after a doctor's appointment.**
 
-**Highlights**
+A full-stack healthcare platform with dedicated patient, doctor, and admin workflows.
 
-* Role-based patient, doctor & admin portals
-* Doctor availability and appointment scheduling
-* Double-booking prevention
-* AI-generated pre-visit symptom summaries
-* Appointment and follow-up notifications
-* Calendar integration
+✨ AI-generated pre-visit symptom summaries
+📅 Intelligent appointment scheduling
+🔐 Role-based authentication
+🚫 Double-booking prevention
+📩 Automated appointment & follow-up notifications
+👨‍⚕️ Doctor availability and leave management
 
-**Tech:** Next.js • React • FastAPI • PostgreSQL • Python • LLMs
-
----
-
-### 🔎 Composio App Research Agent
-
-An autonomous research agent designed to evaluate and analyze **100+ SaaS applications** using tool-based AI workflows.
-
-**Highlights**
-
-* Automated SaaS application research
-* Structured information extraction
-* Tool-based agent workflows
-* Multi-step research and synthesis
-* Designed with fallback LLM strategies for reliability
-
-**Tech:** Python • Composio SDK • Google Gemini • AI Agents
+**Built with:**
+`Next.js` `React` `FastAPI` `PostgreSQL` `Python` `LLMs`
 
 ---
 
-### 💰 ArthaSage AI — Personal Finance Copilot
+### 💰 ArthaSage AI
 
-An AI-powered personal finance assistant that combines transaction analytics with Retrieval-Augmented Generation to answer personalized financial questions.
+**Your data, but you can actually talk to it.**
 
-**Highlights**
+An AI-powered personal finance copilot that combines transaction analytics with **Retrieval-Augmented Generation** to answer natural-language questions about financial data.
 
-* CSV transaction ingestion and analysis
-* RAG-based financial Q&A
-* Semantic search over financial data
-* Interactive analytics and visualizations
+📊 Financial analytics
+🔎 Semantic search
+💬 Conversational Q&A
+📁 CSV data ingestion
+🧠 RAG pipeline
 
-**Tech:** Python • Streamlit • LangChain • FAISS • Google Gemini • Pandas • Plotly
+**Built with:**
+`Python` `LangChain` `FAISS` `Google Gemini` `Pandas` `Streamlit` `Plotly`
 
 ---
 
 ### 🥗 NutriMitra AI
 
-A full-stack AI-powered nutrition platform providing personalized dietary recommendations, condition-aware food impact scoring, and gamified wellness tracking.
+**Personalized nutrition powered by AI.**
 
-**Tech:** Next.js • React • FastAPI • Python • Tailwind CSS
+A full-stack nutrition platform that combines personalized recommendations, food impact scoring, and gamified wellness tracking.
+
+**Built with:**
+`Next.js` `React` `FastAPI` `Python` `Tailwind CSS`
 
 ---
 
-### 🤟 SignTales — Text-to-Sign Language
+### 🤟 SignTales
+
+**Making digital communication more accessible.**
 
 An accessibility-focused application that converts text into sign-language representations using NLP and computer vision techniques.
 
-**Tech:** Python • OpenCV • NLP • Computer Vision • WLASL
+**Built with:**
+`Python` `OpenCV` `NLP` `Computer Vision` `WLASL`
 
 ---
 
-## 💻 Tech Stack
+### 🧬 AI for Medical Imaging
+
+Explored deep learning approaches for healthcare applications, including **CNN-based analysis of IVF embryo images** and medical image classification.
+
+**Built with:**
+`Python` `TensorFlow` `CNN` `OpenCV`
+
+---
+
+# 🛠️ My Toolbox
 
 ### Languages
 
@@ -127,33 +132,38 @@ An accessibility-focused application that converts text into sign-language repre
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,sql" />
 </p>
 
-### AI / Machine Learning
+### AI / ML
 
-Python • PyTorch • TensorFlow • Scikit-Learn • Hugging Face • LangChain • FAISS • NLP • Computer Vision • RAG • LLMs • AI Agents
+`PyTorch` `TensorFlow` `Scikit-Learn` `Hugging Face`
+`LangChain` `FAISS` `NLP` `Computer Vision` `RAG` `LLMs`
 
-### Backend & Databases
+### Full Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgresql" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,postgresql,tailwind" />
 </p>
 
-REST APIs • PostgreSQL • Database Design • Authentication • RBAC
-
-### Frontend
+### Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 Highlights
+
+|                                               |                                          |
+| --------------------------------------------- | ---------------------------------------- |
+| 🏅 **Amazon ML Summer School 2025**           | Selected among the **top 5% nationally** |
+| 🏆 **Global Digital Health Summit Hackathon** | **7th nationally**                       |
+| 💼 **VOIS**                                   | Data Science Internship                  |
+| 🧠 **AI Projects**                            | RAG • AI Agents • NLP • Computer Vision  |
+| 💻 **Software**                               | Full-stack applications & backend APIs   |
+
+---
+
+# 📈 GitHub
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushiTaralkar&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -166,20 +176,26 @@ REST APIs • PostgreSQL • Database Design • Authentication • RBAC
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Let's Connect
 
-<p>
-💼 <a href="https://www.linkedin.com/in/ayushi-taralkar-33416427a/">LinkedIn</a>
-<br>
-🐙 <a href="https://github.com/AyushiTaralkar">GitHub</a>
-<br>
-📧 <a href="mailto:taralkarayushi06@gmail.com">Email</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushi-taralkar-33416427a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:taralkarayushi06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/AyushiTaralkar">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
-<br>
-Building, learning, and shipping AI-powered products 🚀
+  <b>Build → Break → Learn → Build Better 🚀</b>
+</p>
+
+<p align="center">
+  <i>Always experimenting. Always shipping.</i>
 </p>
