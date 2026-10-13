@@ -1,160 +1,116 @@
+# 👋 Hey, I'm Ayushi Taralkar
+
 <h1 align="center">Hey 👋, I'm Ayushi Taralkar</h1>
 
 <h3 align="center">
-Computer Science Engineer • AI/ML Builder • Software Developer
+  AI Developer | I build things, break them, and figure out how to make them work.
 </h3>
 
 <p align="center">
   <a href="https://github.com/AyushiTaralkar">
-    <img src="https://komarev.com/ghpvc/?username=AyushiTaralkar&label=Profile%20Views&color=blue&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=AyushiTaralkar&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
   </a>
   <a href="https://github.com/AyushiTaralkar?tab=followers">
-    <img src="https://img.shields.io/github/followers/AyushiTaralkar?label=Followers&style=flat-square" />
+    <img src="https://img.shields.io/github/followers/AyushiTaralkar?label=Followers&style=flat-square" alt="GitHub followers" />
   </a>
 </p>
 
 <p align="center">
-  <i>Turning ideas into intelligent, usable software.</i>
+  <i>Curious mind. Practical AI. Ideas that turn into working software.</i>
 </p>
 
 ---
 
 ## 🧑‍💻 A Little About Me
 
-I'm a **4th-year Computer Science Engineering student at VIT**, specializing in **Health Informatics**.
+I'm a Computer Science Engineering student at **VIT**, specialising in **Health Informatics**.
 
-I like working at the intersection of **AI, software engineering, and real-world problems** — from building RAG-powered applications and autonomous research agents to developing healthcare platforms and data-driven products.
+I got into building AI projects because I kept thinking, *"What if I could actually build something to solve this?"* And then came the fun part: figuring out how.
 
-Currently exploring:
+I enjoy experimenting with LLMs, building AI agents, connecting APIs, and turning messy problems into applications that do something useful. I'm less interested in building another flashy demo and more interested in understanding what makes a system actually work.
 
-```text
-AI Agents        ███████████████████░░
-LLMs & RAG       ██████████████████░░░
-Backend Systems  █████████████████░░░░
-Machine Learning ████████████████░░░░░
-Product Building ██████████████████░░░
-```
+A few things about me:
 
-* 🤖 Building with **LLMs, RAG, AI Agents & ML**
-* ⚙️ Developing **full-stack applications & APIs**
-* 🧠 Interested in **intelligent systems and applied AI**
-* 🏥 Exploring technology at the intersection of **AI + healthcare**
-* 🔬 Selected for **Amazon ML Summer School 2025**
-* 🏆 **7th nationally** at the Global Digital Health Summit Hackathon
-* 💼 Open to **AI/ML & Software Engineering opportunities**
+- 🤖 I like building with **LLMs, RAG, AI agents, and automation**
+- 🛠️ I learn best by building projects outside the classroom
+- 💸 I built a finance copilot inspired by my own struggles tracking expenses as a hosteller
+- 🧩 I'm curious about how AI systems connect with APIs, databases, and real-world workflows
+- 🏥 My Health Informatics background keeps me interested in AI applications in healthcare, too
+- 🔬 Selected for **Amazon ML Summer School 2025**
 
 ---
 
-# 🚀 Things I've Built
+## 🚀 Things I've Built
 
-### 💰 ArthaSage AI
+### 💸 ArthaSage — Making Sense of My Spending
 
-**Your data, but you can actually talk to it.**
+Ever reached the end of the month and wondered where all your money went? That was the idea behind ArthaSage.
 
-An AI-powered personal finance copilot that combines transaction analytics with **Retrieval-Augmented Generation** to answer natural-language questions about financial data.
+I wanted to explore a more natural way to understand personal finances without relying entirely on manual tracking and spreadsheets. So I built a finance copilot focused on transaction analytics and asking questions about spending.
 
-📊 Financial analytics
-🔎 Semantic search
-💬 Conversational Q&A
-📁 CSV data ingestion
-🧠 RAG pipeline
+**What I explored:** Natural-language queries, semantic search, retrieval-augmented generation, and financial data visualisation.
 
-**Built with:**
-`Python` `LangChain` `FAISS` `Google Gemini` `Pandas` `Streamlit` `Plotly`
+**Built with:** Python · Streamlit · LangChain · FAISS · Gemini · Pandas · Plotly
 
----
+### 🧠 CalQuity — Customer Support With Context
 
-### 🔎 Composio App Research Agent
+I explored how an AI support system could do more than generate generic answers. CalQuity combines document retrieval and database queries so responses can draw on policies and structured business data.
 
-**An autonomous research agent that evaluates 100+ SaaS applications.**
+I also worked on human-in-the-loop workflows, where sensitive actions require confirmation instead of being executed automatically.
 
-Instead of manually researching applications one by one, the agent uses tool-based workflows to gather, structure, and synthesize information.
+**Focus:** RAG · Database querying · Backend workflows · Human-in-the-loop AI
 
-**Built with:**
-`Python` `Composio SDK` `Google Gemini` `AI Agents`
+### 🔎 Composio App Research Agent — Research, But With a Workflow
 
----
+I explored building an agent that investigates app integrations, looks into APIs and authentication requirements, gathers evidence, and turns its findings into structured reports.
 
+The interesting part isn't just getting an LLM to answer a question — it's breaking research into steps and making the output useful.
 
-### 🤟 SignTales
-
-**Making digital communication more accessible.**
-
-An accessibility-focused application that converts text into sign-language representations using NLP and computer vision techniques.
-
-**Built with:**
-`Python` `OpenCV` `NLP` `Computer Vision` `WLASL`
+**Focus:** AI agents · API integrations · Evidence collection · Research automation
 
 ---
 
-### 🧬 AI for Medical Imaging
+## 🛠️ My Current Toolkit
 
-Explored deep learning approaches for healthcare applications, including **CNN-based analysis of IVF embryo images** and medical image classification.
+**Languages:** Python · C++ · SQL
 
-**Built with:**
-`Python` `TensorFlow` `CNN` `OpenCV`
+**AI/ML:** LLMs · RAG · AI Agents · NLP · Computer Vision · TensorFlow
 
----
+**Tools & Frameworks:** LangChain · FAISS · Streamlit · Pandas · REST APIs · Git
 
-# 🛠️ My Toolbox
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,sql" />
-</p>
-
-### AI / ML
-
-`PyTorch` `TensorFlow` `Scikit-Learn` `Hugging Face`
-`LangChain` `FAISS` `NLP` `Computer Vision` `RAG` `LLMs`
-
-### Full Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,postgresql,tailwind" />
-</p>
-
-### Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-</p>
+I'm always learning new tools, so this isn't a list I'm trying to freeze in time. It's what I'm exploring through projects and experimentation.
 
 ---
 
-# 🏆 Highlights
+## 🌱 What I'm Exploring Next
 
-|                                               |                                          |
-| --------------------------------------------- | ---------------------------------------- |
-| 🏅 **Amazon ML Summer School 2025**           | Selected among the **top 5% nationally** |
-| 🏆 **Global Digital Health Summit Hackathon** | **7th nationally**                       |
-| 💼 **VOIS**                                   | Data Science Internship                  |
-| 🧠 **AI Projects**                            | RAG • AI Agents • NLP • Computer Vision  |
-| 💻 **Software**                               | Full-stack applications & backend APIs   |
+- Building more reliable AI agents that can use tools and APIs
+- Improving retrieval quality and grounding LLM responses in data
+- Connecting AI applications to real backend systems
+- Building products around problems people actually experience
 
 ---
 
-# 🌐 Let's Connect
+## 🏆 Beyond the Projects
 
-<p align="center">
+- 🔬 Selected for **Amazon ML Summer School 2025**
+- 🏆 **7th nationally** at the Global Digital Health Summit Hackathon
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in **AI engineering, LLM applications, AI agents, and software development**. Always happy to connect with people building interesting things, exchange ideas, and learn from projects that challenge me.
+
+<p align="left">
   <a href="https://www.linkedin.com/in/ayushi-taralkar-33416427a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:taralkarayushi06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/AyushiTaralkar">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <b>Build → Break → Learn → Build Better 🚀</b>
-</p>
-
-<p align="center">
-  <i>Always experimenting. Always shipping.</i>
+  <i>Still curious. Still building. Still figuring things out.</i>
 </p>
