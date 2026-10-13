@@ -47,35 +47,6 @@ Product Building ██████████████████░░░
 
 # 🚀 Things I've Built
 
-### 🔎 Composio App Research Agent
-
-**An autonomous research agent that evaluates 100+ SaaS applications.**
-
-Instead of manually researching applications one by one, the agent uses tool-based workflows to gather, structure, and synthesize information.
-
-**Built with:**
-`Python` `Composio SDK` `Google Gemini` `AI Agents`
-
----
-
-### 🏥 Healthcare Appointment & Follow-up Manager
-
-**Making the patient journey smarter — before and after a doctor's appointment.**
-
-A full-stack healthcare platform with dedicated patient, doctor, and admin workflows.
-
-✨ AI-generated pre-visit symptom summaries
-📅 Intelligent appointment scheduling
-🔐 Role-based authentication
-🚫 Double-booking prevention
-📩 Automated appointment & follow-up notifications
-👨‍⚕️ Doctor availability and leave management
-
-**Built with:**
-`Next.js` `React` `FastAPI` `PostgreSQL` `Python` `LLMs`
-
----
-
 ### 💰 ArthaSage AI
 
 **Your data, but you can actually talk to it.**
@@ -93,16 +64,17 @@ An AI-powered personal finance copilot that combines transaction analytics with 
 
 ---
 
-### 🥗 NutriMitra AI
+### 🔎 Composio App Research Agent
 
-**Personalized nutrition powered by AI.**
+**An autonomous research agent that evaluates 100+ SaaS applications.**
 
-A full-stack nutrition platform that combines personalized recommendations, food impact scoring, and gamified wellness tracking.
+Instead of manually researching applications one by one, the agent uses tool-based workflows to gather, structure, and synthesize information.
 
 **Built with:**
-`Next.js` `React` `FastAPI` `Python` `Tailwind CSS`
+`Python` `Composio SDK` `Google Gemini` `AI Agents`
 
 ---
+
 
 ### 🤟 SignTales
 
